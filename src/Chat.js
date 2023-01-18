@@ -37,7 +37,7 @@ useEffect (()=>{
  
     <div className="chat-window">
       <div className='chat-header'>
-        <p>A.T.P CHAT-APP</p>
+        <p>A.T.P CHATAPP</p>
       </div>
    
     <div className='chat-body'>
